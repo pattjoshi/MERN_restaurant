@@ -55,6 +55,29 @@
 
 ## Images:
 
+<img width="958" alt="image" src="https://github.com/pattjoshi/MERN_restaurant/assets/78966839/d40a3da3-bf3a-45bd-9bb1-115fee37fd74">
+
+<img width="960" alt="image" src="https://github.com/pattjoshi/MERN_restaurant/assets/78966839/f2eaf415-3150-481d-a06e-8166b9f51705">
+
+<img width="960" alt="image" src="https://github.com/pattjoshi/MERN_restaurant/assets/78966839/cca1a21f-bf71-41fc-a065-605d664c72da">
+
+<img width="955" alt="image" src="https://github.com/pattjoshi/MERN_restaurant/assets/78966839/4ec604e6-fe72-4187-a867-d5d128fe1f5b">
+
+<img width="960" alt="image" src="https://github.com/pattjoshi/MERN_restaurant/assets/78966839/df785f56-cf84-49c7-a2e5-4e49852b39d1">
+
+<img width="951" alt="image" src="https://github.com/pattjoshi/MERN_restaurant/assets/78966839/327ff6f4-2206-47b1-b5a1-29ffb8413887">
+
+<img width="960" alt="image" src="https://github.com/pattjoshi/MERN_restaurant/assets/78966839/9fd96403-792a-48e4-976f-09c8272d4695">
+
+<img width="958" alt="image" src="https://github.com/pattjoshi/MERN_restaurant/assets/78966839/efadf5e2-87d9-4a15-bb08-ded5236d4e8d">
+
+<img width="951" alt="image" src="https://github.com/pattjoshi/MERN_restaurant/assets/78966839/22f2a8df-009a-4c9c-93e4-5c29369a4e84">
+
+
+
+<img width="953" alt="image" src="https://github.com/pattjoshi/MERN_restaurant/assets/78966839/8ba88e63-7ac2-4b0c-b200-8b19ad2d987c">
+
+
 ## Vedio :- 
 
 https://github.com/pattjoshi/MERN_restaurant/assets/78966839/ffd44488-0dae-4078-b869-7a23b68c56a5
