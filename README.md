@@ -30,6 +30,9 @@
 ✔️ Payment :- [Stripe ](https://dashboard.stripe.com/test/dashboard "click to open") <br />
 ✔️ Frontend Hosting :- [vercel ](https://vercel.com "click to open") <br />
 ✔️ Back end Hosting :- [render ](https://render.com/ "click to open") <br />
+✔️ package manager :- [npm ](https://www.npmjs.com/ "click to open") <br />
+
+
 ---
 
 ## Images:
@@ -39,9 +42,9 @@
 ## How to own this
 
 ## Must have in Yor System (STAP 1)
-### node
-### mongo
-### npm
+` node`
+ `mongo`
+`npm`
 
 # STAP-2
 `git clone https://github.com/pattjoshi/MERN_restaurant.git`
