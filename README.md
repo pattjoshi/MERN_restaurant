@@ -32,12 +32,34 @@
 ✔️ Back end Hosting :- [render ](https://render.com/ "click to open") <br />
 ✔️ package manager :- [npm ](https://www.npmjs.com/ "click to open") <br />
 
+---
+
+## description :
+
+- The project is a MERN (MongoDB, Express.js, React.js, Node.js) restaurant application with various features. Here is a description of the project
+
+- The application allows the admin to add products to the restaurant menu. Users can then view and filter the available products. To access the application, users need to authenticate by loging in or signing up. During the sign-up process, users can upload a profile picture.
+
+- Once logged in, users can add items to their cart. The cart allows users to increase or decrease the quantity of items. Only authenticated users are allowed to proceed with the purchase of items.
+
+- For payment processing, the Stripe payment method is implemented in the application. This enables secure and convenient online transactions.
+
+- To enhance user experience, the application includes error handling with a 404 page for handling missing pages or routes. The design of the application is responsive, ensuring compatibility across different devices and screen sizes. Tailwind CSS is used for styling the user interface.
+
+- State management in the application is implemented using Redux Toolkit, which provides a predictable state container for managing the application's data.
+
+- The application is deployed live on Vercel for the frontend hosting, while the backend is hosted on Render. This allows the application to be accessible to users on the internet.
+
 
 ---
 
 ## Images:
 
 ## Vedio :- 
+
+https://github.com/pattjoshi/MERN_restaurant/assets/78966839/ffd44488-0dae-4078-b869-7a23b68c56a5
+
+
 
 ## How to own this
 
@@ -79,14 +101,6 @@ FRONTEND_URL = "http://localhost:3000"
 ### `npm run dev`
 
 ---
-
-
-
-
-
-
-
-
 
 
 
