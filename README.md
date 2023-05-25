@@ -73,6 +73,10 @@
 
 <img width="951" alt="image" src="https://github.com/pattjoshi/MERN_restaurant/assets/78966839/22f2a8df-009a-4c9c-93e4-5c29369a4e84">
 
+<img width="960" alt="image" src="https://github.com/pattjoshi/MERN_restaurant/assets/78966839/1f4783da-dc66-426c-a9fe-302d9f1e2b91">
+
+<img width="957" alt="image" src="https://github.com/pattjoshi/MERN_restaurant/assets/78966839/dc8b97c6-50c2-4e76-b0bd-ab69759849de">
+
 
 
 <img width="953" alt="image" src="https://github.com/pattjoshi/MERN_restaurant/assets/78966839/8ba88e63-7ac2-4b0c-b200-8b19ad2d987c">
