@@ -134,3 +134,8 @@ FRONTEND_URL = "http://localhost:3000"
 ## YouTub :- [I Learn from this ](https://www.youtube.com/watch?v=JFCQLhSMjtM&list=PLE8RWx-QZY-a7fzQmuVFb-eZdqRhW5DUE&index=2 "click to open")
 
 🙏 If you find this repo helpful then don't forget to give a star ❇️ to this repository. :)
+
+<p align="center"><a href="https://github.com/nastyox/Rando.js#nastyox"><img src="http://randojs.com/images/barsSmallTransparentBackground.gif" alt="Animated footer bars" width="100%"/></a></p>
+<br/>
+<p align="center"><a href="https://github.com/nastyox/Rando.js#"><img src="http://randojs.com/images/backToTopButtonTransparentBackground.png" alt="Back to top" height="29"/></a></p>
+
