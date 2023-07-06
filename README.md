@@ -87,6 +87,24 @@
 https://github.com/pattjoshi/MERN_restaurant/assets/78966839/ffd44488-0dae-4078-b869-7a23b68c56a5
 
 
+### Screenshot
+
+|         Mobile View          |         Desktop View          |
+| :--------------------------: | :---------------------------: |
+| ![](./screenshot/mobile.png) | <img width="953" alt="image" src="https://github.com/pattjoshi/MERN_restaurant/assets/78966839/8ba88e63-7ac2-4b0c-b200-8b19ad2d987c">
+ |
+
+### Built with
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![tailwindcss](https://img.shields.io/badge/tailwind_css-0A66C2?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+
+
 
 ## How to own this
 
